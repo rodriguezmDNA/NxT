@@ -1,3 +1,18 @@
+#Project sensitive stuff
+logs/
+meta/
+GOenrichment/
+RawCounts/
+Results/
+DPF/
+Ath_UpstreamRegions/
+*.pdf
+*.afdesign
+glimma/
+
+#Mac stuff
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
